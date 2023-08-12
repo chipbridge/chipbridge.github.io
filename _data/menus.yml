@@ -1,19 +1,19 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Chip-Bridge"
+    url: "/"
+    weight: 1
+  - name: "Adapters"
+    url: "/products/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Contact"
+    url: "/contact/"
     weight: 3
   - name: "About"
     url: "/about/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Chip-Bridge"
     url: "/"
     weight: 1
   - name: "Contact"
