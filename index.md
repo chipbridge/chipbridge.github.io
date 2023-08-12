@@ -10,7 +10,7 @@ show_call_box: true
 
 # Chip-Bridge Adapters...
 
-#### ...Are the *right* way to install the *wrong* chip. 
+#### ...are the *right* way to install the *wrong* chip. 
 
 Our  __Adapter designs__ give you a new dimension in IC selection, without the cost of turning your whole board design. 
 *  Break through supply chain limitations
