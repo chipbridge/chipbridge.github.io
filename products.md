@@ -1,6 +1,6 @@
 ---
 title: Adapters
-layout: services
+layout: products
 description: CB Adapter List
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
