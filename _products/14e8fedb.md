@@ -5,5 +5,5 @@ guest_package: QFP
 pins: 64
 host_pitch: 0.8mm
 guest_pitch: 0.5mm
-pdf_url: /_datasheets/14e8fedb.pdf
+pdf_url: /datasheets/14e8fedb.pdf
 ---
