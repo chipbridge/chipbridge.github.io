@@ -13,8 +13,7 @@ show_call_box: true
 
 ### Bridge the gap to your next design.
 
-__CB Adapter designs__ give you a new dimension in IC selection, without the cost of a full design-turn.
+__CB Adapters__ let you:  
 *  Break through supply chain limitations
-*  Upgrade your design without redesign time costs
-*  Sell functional inventory instead of sending it to the scrap bin
-*  Modularize your design at-will
+*  Upgrade your products without redesign time costs
+*  Make use of functional inventory instead of sending it to the scrap bin
