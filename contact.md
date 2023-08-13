@@ -4,9 +4,13 @@ layout: contact
 description: Contact
 ---
 
-Looking for a design, but don't see it here? Looking for information, but can't find it on the datasheet? Want to make a large volume purchase? Reach out!
+### Our team is here to help you with:
+ * Identifying the right adapter
+ * Large Volume Orders
+ * Custom designs for your project
+ * Technical support
 
-| Weekday   | Typical Response Time |
+<!-- | Weekday   | Typical Response Time |
 | --------- | --------------------- |
 |  Mon-Fri  |    Within 12 hours    |
-|  Sat-Sun  |    Within 24 hours    |
+|  Sat-Sun  |    Within 24 hours    | -->
