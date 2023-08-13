@@ -2,7 +2,8 @@
 title: Chip-Bridge Technologies
 layout: home
 description: Chip-Bridge Technologies
-intro_image: "images/illustrations/cbstack.svg"
+intro_video: "images/stackup_vid.mp4"
+#intro_image: "images/illustrations/cbstack.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
