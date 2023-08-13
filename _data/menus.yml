@@ -1,21 +1,22 @@
 main:
-  - name: "Chip-Bridge"
+  - name: "Home"
     url: "/"
     weight: 1
-  - name: "Adapters"
+  - name: "Products"
     url: "/products/"
     weight: 2
   - name: "Contact"
     url: "/contact/"
     weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
+
 
 footer:
-  - name: "Chip-Bridge"
+  - name: "Home"
     url: "/"
     weight: 1
+  - name: "Products"
+    url: "/products/"
+    weight: 2
   - name: "Contact"
     url: "/contact/"
-    weight: 2
+    weight: 3
