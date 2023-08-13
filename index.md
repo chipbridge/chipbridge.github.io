@@ -9,11 +9,11 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Chip-Bridge Adapters
+# We make IC Adapters.
 
-#### The *right* way to install the *wrong* chip. 
+### Bridge the gap to your next design.
 
-Our  __Adapter designs__ give you a new dimension in IC selection, without the cost of turning your whole board design.
+__CB Adapter designs__ give you a new dimension in IC selection, without the cost of a full design-turn.
 *  Break through supply chain limitations
 *  Upgrade your design without redesign time costs
 *  Sell functional inventory instead of sending it to the scrap bin
