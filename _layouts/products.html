@@ -37,6 +37,7 @@ bodyClass: "page-products"
           {% for product in site.products %}
           <tr>
             <td>{{ product.part_number }}</td>
+            <td>{{ product.part_identifier }}</td>
             <td>{{ product.host_package }}</td>
             <td>{{ product.guest_package }}</td>
             <td>{{ product.pins }}</td>
