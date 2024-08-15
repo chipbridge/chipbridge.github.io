@@ -13,7 +13,7 @@ show_call_box: true
 
 ### Bridge the gap to your next design.
 
-__CB Adapters__ let you:  
+__Chip Bridge Adapters__ let you:  
 *  Break through supply chain limitations
 *  Upgrade your products without redesign time costs
 *  Make use of functional inventory instead of sending it to the scrap bin

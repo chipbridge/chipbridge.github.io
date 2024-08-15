@@ -55,7 +55,6 @@ exclude:
   - README.md
   - _team/
   - _services/
-  - _sass/
   - .vscode/
   - .gitignore
 

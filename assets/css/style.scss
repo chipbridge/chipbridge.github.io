@@ -84,3 +84,25 @@ body {
   height: auto;
   display: block;
 }
+
+.btn-digikey {
+  @include button-variant(white, red);  // White background, red text
+  border: 2px solid red;  // Thin red border
+  background-color: white;  // Ensure the background is white
+  color: red;  // Red text color
+  border-radius: 5px;  // Rounded corners
+  padding: 10px 20px;  // Adjust padding as needed
+  text-align: center;
+  display: inline-block;
+
+  img {
+    vertical-align: middle;
+    width: 80px;  // Adjust the size of the image as needed
+  }
+
+  &:hover {
+    background-color: #f8f9fa;  // Light gray background on hover
+    color: red;  // Keep text red on hover
+    text-decoration: none;
+  }
+}
