@@ -1,7 +1,7 @@
 ---
-title: Contact Us
+title: Chip-Bridge Technologies Contact
 layout: contact
-description: Contact
+description: Contact us with questions, requests, and more.
 ---
 
 ### Our team is here to help you with:
